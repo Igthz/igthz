@@ -13,4 +13,4 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liethneto&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </p><br>
-<a href="https://github.com/liethneto""> <img alt="xey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=liethneto&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/liethneto""> <img alt="liethneto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=liethneto&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
