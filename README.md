@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/liethneto">
-    <img src="[https://discord.c99.nl/widget/theme-1/972312127551471616.png](https://discord.c99.nl/widget/theme-1/972312127551471616.png)"/>
+    <img src="https://discord.c99.nl/widget/theme-1/972312127551471616.png"/>
      </a>
   </div>
   
