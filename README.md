@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Igthz">
-    <img src=""/>
+    <img src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>
      </a>
   </div>
   
