@@ -5,7 +5,7 @@
      </a>
   </div>
   
-<h2 align="center">Github stastictics</h2>
+<h2 align="center">----</h2>
 
 <div align="center">
   <a href="https://github.com/liethneto">
