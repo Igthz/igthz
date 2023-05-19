@@ -3,10 +3,10 @@
   <a href="https://github.com/Igthz">
   </div>
 <div style="display: inline_block"><br>
-  <img height="80em" width="80" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
+  <img height="80em" width="200" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
 </div>
 <div style="display: inline_block"><br>
-  <img height="80em" width="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
+  <img height="80em" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="top" alt="lie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
