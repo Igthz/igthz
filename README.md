@@ -1,13 +1,13 @@
 
 <p align="center">
   <a href="https://github.com/Igthz">
-  </div>
+  </div align="center">
 <div style="display: inline_block"><br>
-  <img allign="center" height="100em" width="450" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
-</div>
+  <img height="100em" width="450" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
+</div align="center">
 <div style="display: inline_block"><br>
-  <img allign="center" height="100em" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
-</div>
+  <img  height="100em" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
+</div align="center">
 <div style="display: inline_block"><br>
     <img align="top" alt="lie-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="lie-Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
