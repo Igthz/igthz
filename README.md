@@ -3,7 +3,7 @@
   <a href="https://github.com/Igthz">
   </div>
 <div style="display: inline_block"><br>
-  <img height="125em" width="400" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
+  <img height="100em" width="400" src="https://discord.c99.nl/widget/theme-1/1016119034770640916.png"/>   
 </div>
 <div style="display: inline_block"><br>
   <img height="100em" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
