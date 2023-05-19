@@ -7,6 +7,7 @@
   <img align="center" alt="lie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
 
      
   </div>
