@@ -3,9 +3,6 @@
   <a href="https://github.com/Igthz">
   </div align="center">
 <div style="display: inline_block"><br>
-  <img height="100em" width="450" src="https://discord.c99.nl/widget/theme-3/1116398468504748173.png"/>   
-</div align="center">
-<div style="display: inline_block"><br>
   <img  height="100em" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igthz&theme=dark&hide_border=false&&layout=compact"/>
 </div align="center">
 <div style="display: inline_block"><br>
